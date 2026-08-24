@@ -2,40 +2,20 @@
 Python Foundation training assignments and practice exercises.
 
 
+# Python Foundation Assignments
 
-# Day 1: Python Foundations
+## Student Information
 
-## Topics Covered
-- Variables
-- Data Types
-- String Methods
-- Operators
-- Conditional Statements
+- Name: Muskan Rajbanshi
+- Cohort: Batch-16:1st-Month- Data & AI Training
+- Track Interest: Data Analytics
 
-## Exercises
-1. Sales Summary
-2. Data Quality Checker
-3. File Validator
-4. Customer Record Cleaner
-5. Pipeline Health Status
-6. Dataset Access Decision
+## About This Repository
 
-## How to Run
-Run each Python file using:
-```bash
-python filename.py
+This repository contains my assignments and practice exercises from the Python Foundation training.
 
-```
+## Assignment Progress
 
-## What I Learned
+- [x] Day 1: Python Foundations
+- [x] Day 2: Collections & Control Flow,Dictionary,listcomprehension,dictionary comprehension,nested dictionary
 
-I learned how to use basic Python concepts to perform calculations, clean data, validate files, and make decisions using conditions.
-
-## Challenges Faced
-
-I had some difficulty with the conditional logic in Exercise 5, especially when handling multiple conditions. I solved it by checking the conditions step by step.
-
-```
-
-
-```
